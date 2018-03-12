@@ -1,0 +1,10 @@
+C:\Users\P305\source\repos\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.exe.config
+C:\Users\P305\source\repos\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.exe
+C:\Users\P305\source\repos\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.pdb
+C:\Users\P305\source\repos\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csprojResolveAssemblyReference.cache
+C:\Users\P305\source\repos\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.Cinemaplus.resources
+C:\Users\P305\source\repos\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.Properties.Resources.resources
+C:\Users\P305\source\repos\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csproj.GenerateResource.Cache
+C:\Users\P305\source\repos\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csproj.CoreCompileInputs.cache
+C:\Users\P305\source\repos\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.exe
+C:\Users\P305\source\repos\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.pdb
